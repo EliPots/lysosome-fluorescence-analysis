@@ -5,7 +5,7 @@
 Automated image analysis tools for quantifying lysosomal distribution in confocal fluorescence microscopy images. Built during a research internship at **SUNY Upstate Medical University** (Summer 2026).
 
 <img width="200" alt="sample cell mask" src="https://github.com/user-attachments/assets/52fc5c6a-bd36-46df-b1d8-8acd4b6d340c" />
-<img width="200" alt="sample batch input" src="https://github.com/user-attachments/assets/2fbb22c5-2d4e-4b89-ada2-63f178a45c6a" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/985917d1-3448-4086-8f35-5039572b268f" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/aa7950e2-d8c4-44c1-930d-ac48777e8c23" />
 <img width="200" alt="sample radial profile" src="https://github.com/user-attachments/assets/4212581c-e674-4902-a19c-62aa6be204a6" />
 
