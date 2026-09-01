@@ -3,10 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green) 
 
 Automated image analysis tools for quantifying lysosomal distribution in confocal fluorescence microscopy images. Built during a research internship at **SUNY Upstate Medical University** (Summer 2026).
-<img width="400" height="1208" alt="sample cell mask" src="https://github.com/user-attachments/assets/d3ffaf47-6d46-402e-8a69-d788bc4e0269" />
-<img width="400" height="982" alt="sample radial profile" src="https://github.com/user-attachments/assets/de02b5d1-254b-4a6a-aca8-2e475c012115" />
-<img width="400" height="1060" alt="sample batch input" src="https://github.com/user-attachments/assets/7a69f2a2-4eaf-42de-91fa-234253920178" />
-<img width="400" height="598" alt="image" src="https://github.com/user-attachments/assets/4c4a3daa-1fa4-4ae1-9e5a-9a742062f708" width="400"/>
+<img width="600" alt="sample cell mask" src="https://github.com/user-attachments/assets/52fc5c6a-bd36-46df-b1d8-8acd4b6d340c" />
+<img width="600" alt="sample batch input" src="https://github.com/user-attachments/assets/2fbb22c5-2d4e-4b89-ada2-63f178a45c6a" />
+<img width="600" alt="sample radial profile" src="https://github.com/user-attachments/assets/4212581c-e674-4902-a19c-62aa6be204a6" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/aa7950e2-d8c4-44c1-930d-ac48777e8c23" />
+
 
 ---
 
