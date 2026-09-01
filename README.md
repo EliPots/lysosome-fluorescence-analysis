@@ -42,26 +42,6 @@ Measuring this distribution by hand across many cells from raw microscope images
 
 ---
 
-## Sample Outputs
-
-**Cell mask — automated segmentation of cell boundary (yellow) and nucleus (blue):**
-
-![Mask Preview](samples/mask_preview.png)
-
-**Fluorescence heatmap — lysosome signal intensity mapped across the cell:**
-
-![Heatmap](samples/heatmap.png)
-
-**Radial profile — mean fluorescence intensity from nucleus (0%) to cell edge (100%):**
-
-![Radial Profile](samples/radial_profile.png)
-
-**Zone analysis — percentage of total fluorescence per 25%-width zone:**
-
-![Zones](samples/zones.png)
-
----
-
 ## Interpreting Results
 
 - **Perinuclear pattern:** radial profile peaks near 0% distance; zone 1 (0–25%) dominates the bar chart. Lysosomes are clustered tightly around the nucleus.
